@@ -1,0 +1,10 @@
+39 1.99 Banana
+22 4.78 Pepino
+45 5.77 Abobrinha 
+89 6.69 Berinjela
+10 3.38 Maçã
+48 7.12 Cereja
+15 6.99 Limão
+56 12.50 Coco
+73 5.47 Cacau
+18 3.00 Bergamota
