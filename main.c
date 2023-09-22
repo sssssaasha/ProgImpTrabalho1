@@ -30,7 +30,7 @@ int main() {
   int n_vendas = 0, n_produtos = 0, n_vendedores = 0;
 
   if (vendas_arquivo == NULL || produtos_arquivo == NULL || vendedores_arquivo == NULL) {
-    printf("Erro ao abrir um dos arquivos de entrada.\n");
+    printf("Erro ao abrir arquivos.\n");
     return 1;
   }
 
